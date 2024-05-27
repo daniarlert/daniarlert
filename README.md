@@ -11,6 +11,6 @@ I'm a Back-End Software Developer based in Alicante, Spain, with a passion for c
 
 ## Let's connect ✨
 
-- 🖥️ [Portfolio](https://dnlzrgz.up.railway.app/)
+- 🖥️ [Portfolio](https://dnlzrgz.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-zaragoza-4395b4260/)
 - 🐘 [Mastodon](https://mastodon.social/@dnlzrgz)
